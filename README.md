@@ -2,7 +2,7 @@
 
 This repository contains my Data Science and Machine Learning portfolio with some projects I have worked on.
 
-Click 
+Click on the title link to be redirected to the project's web page.
 
 ## Projects
 
