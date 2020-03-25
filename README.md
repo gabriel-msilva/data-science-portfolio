@@ -14,7 +14,7 @@ This detailed project aims to help Trade Surveillance analysts to identify *insi
 
   _Programming languages: R, Python, SQL_
 
-- ###[Clustering algorithms comparison](https://github.com/gabriel-msilva/clustering-comparison/blob/master/clustering_comparison.md)
+- ### [Clustering algorithms comparison](https://github.com/gabriel-msilva/clustering-comparison/blob/master/clustering_comparison.md)
 
 This kernel is a comparison between four different unsupervised learning clustering algorithms over simulated data.
 
