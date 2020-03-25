@@ -1,2 +1,15 @@
-# data-science-portfolio
-Summary repository of my Data Science projects
+# Data Science Portfolio
+
+This repository contains my Data Science and Machine Learning portfolio with some projects I have worked on.
+
+Click 
+
+## Projects
+
+- ### [Relevent Facts](https://gabriel-msilva.github.io/relevant-facts/) (english and portuguese versions)
+
+This detailed project aims to help Trade Surveillance analysts to identify *insider trading* by classifying Brazilian's relevant market facts documents relative to the their impact on stock prices. It covers an extensive pipeline: from data mining to model building and analysis.
+
+  _Themes: Insider Trading, Web Scrapping, Natural Language Processing, Logistic Regression_
+
+  _Programming languages: R, Python, SQL_
