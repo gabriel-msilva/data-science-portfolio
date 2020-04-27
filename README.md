@@ -6,7 +6,7 @@ Click on the title link to be redirected to the project's web page.
 
 ## Projects
 
-- ### [COVID-19 data visualizations](https://gabriel-msilva.github.io/covid-19/covid-19.html)
+- ### [COVID-19 data visualizations](https://gabriel-msilva.github.io/covid-19/)
 
 A set of data visualizations exploring the repository data of COVID-19 confirmed and death cases published by Johns Hopkins University Center.
 
