@@ -1,4 +1,5 @@
-# Data Science Portfolio
+Data Science Portfolio
+----------------------
 
 This repository contains my Data Science and Machine Learning portfolio with some projects I have worked on.
 
@@ -13,7 +14,15 @@ A set of data visualizations exploring the repository data of COVID-19 confirmed
   _Themes: Data visualization, Storytelling_
 
   _Programming languages: R_
-  
+
+- ### [Class about NLP](https://github.com/gabriel-msilva/bible) (portuguese)
+
+A simple Natural Language Processing (NLP) analysis using Bible texts (no copyright issues) created for a class at work. Also includes data processing from XLM files.
+
+  _Themes: NLP, Data visualization, Teaching_
+
+  _Programming languages: R_
+
 - ### [Relevent Facts](https://gabriel-msilva.github.io/relevant-facts/) (english and portuguese versions)
 
 This detailed project aims to help Trade Surveillance analysts to identify *insider trading* by classifying Brazilian's relevant market facts documents relative to the their impact on stock prices. It covers an extensive pipeline: from data mining to model building and analysis.
