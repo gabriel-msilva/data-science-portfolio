@@ -7,6 +7,14 @@ Click on the title link to be redirected to the project's web page.
 
 ## Projects
 
+- ### [Exploring fractal sets](https://github.com/gabriel-msilva/fractal-sets)
+
+Code for generating Mendelbrot and Julia sets images and animations. This will turned into a more Math-detailed post at my blog.
+
+  _Themes: Fractals, Parallel processing, Data visualization_
+
+  _Programming languages: Python_
+
 - ### [COVID-19 data visualizations](https://gabriel-msilva.github.io/covid-19/) (english and portuguese versions)
 
 A set of data visualizations exploring the repository data of COVID-19 confirmed and death cases published by Johns Hopkins University Center.
